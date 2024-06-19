@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Patrick
 
-<!--
-**pnads/pnads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to be a Physicist. Got a Ph.D. and everything.
 
-Here are some ideas to get you started:
+But now I'm a software and data guy with 6+ years of professional experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a broad skill set including (but not limited to):
+
+- web app development
+- cloud architecture
+- devops
+- database architecture
+- data science
+- data engineering
+
+I'm also a dad to 4 daughters, one of which is a baby who pooped on me as I was typing this...
+
+...
+
+Let's chat!
