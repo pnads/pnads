@@ -19,12 +19,12 @@ I'm also a dad to 4 daughters, one of which is a baby who pooped on me as I was 
 
 Let's chat!
 
-<a href="mailto:patrick.a.nadeau@gmail.com">
-  <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30" style="padding-right:10px">
+<a href="mailto:patrick.a.nadeau@gmail.com" style="text-decoration:none;">
+  <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30" style="vertical-align:middle;margin:4px">
 </a>
-<a href="https://www.linkedin.com/in/pnads">
-  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="padding-right:10px">
+<a href="https://www.linkedin.com/in/pnads" style="text-decoration:none;">
+  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="vertical-align:middle;margin:4px">
 </a>
-<a href="https://x.com/pnadsphd">
-  <img src="https://simpleicons.org/icons/x.svg" alt="X" height="30" width="30" style="padding-right:10px">
+<a href="https://x.com/pnadsphd" style="text-decoration:none;">
+  <img src="https://simpleicons.org/icons/x.svg" alt="X" height="30" width="30" style="vertical-align:middle;margin:4px">
 </a>
