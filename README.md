@@ -19,12 +19,6 @@ I'm also a dad to 4 daughters, one of which is a baby who pooped on me as I was 
 
 Let's chat!
 
-<a href="mailto:patrick.a.nadeau@gmail.com" style="text-decoration:none;">
-  <img src="https://simpleicons.org/icons/gmail.svg" alt="Email" height="30" width="30" style="vertical-align:middle;margin:4px">
-</a>
-<a href="https://www.linkedin.com/in/pnads" style="text-decoration:none;">
-  <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="vertical-align:middle;margin:4px">
-</a>
-<a href="https://x.com/pnadsphd" style="text-decoration:none;">
-  <img src="https://simpleicons.org/icons/x.svg" alt="X" height="30" width="30" style="vertical-align:middle;margin:4px">
-</a>
+[![Email](https://img.shields.io/badge/patrick.a.nadeau-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.a.nadeau@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/pnads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pnads)
+[![X](https://img.shields.io/badge/pnadsphd-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pnadsphd)
